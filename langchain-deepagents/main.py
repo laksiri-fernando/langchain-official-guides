@@ -1,4 +1,4 @@
-# pip install -qU deepagents langchain-google-genai
+# pip install -qU deepagents langchain-google-genai langchain-openrouter tavily-python
 # pip install -qU python-dotenv
 
 from deepagents import create_deep_agent
@@ -13,7 +13,8 @@ def get_weather(city: str) -> str:
     return f"The current weather in {city} is sunny with a temperature of 25°C."
 
 agent = create_deep_agent(
-    model="google_genai:gemini-3.5-flash",
+    # model="google_genai:gemini-3.5-flash",
+    model="openrouter:google/gemma-4-31b-it:free",
     tools=[get_weather],
     system_prompt="You are a helpful assistant that provides weather information based on the get_weather function."
 )
