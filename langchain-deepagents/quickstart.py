@@ -35,7 +35,8 @@ Use this to run an internet search for a given query. You can specify the max nu
 """
 
 agent = create_deep_agent(
-    model="openrouter:google/gemma-4-31b-it:free",
+    # model="openrouter:google/gemma-4-31b-it:free",
+    model="ollama:gpt-oss:120b-cloud",
     tools=[internet_search],
     system_prompt=research_instructions,
 )

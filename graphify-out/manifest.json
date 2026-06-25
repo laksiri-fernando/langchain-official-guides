@@ -1,0 +1,177 @@
+{
+  ".opencode/opencode.json": {
+    "mtime": 1782203193.9547508,
+    "ast_hash": "abcc8b9dcd80bca5f9dde6d9f0c3ae79",
+    "semantic_hash": ""
+  },
+  ".opencode/plugins/graphify.js": {
+    "mtime": 1782203193.9547508,
+    "ast_hash": "64ccd3c03dbfe0980b6095766f5c4e52",
+    "semantic_hash": ""
+  },
+  "langchain-deepagents/main.py": {
+    "mtime": 1781980993.9289432,
+    "ast_hash": "61d20597a4f55db95536199fb9a08683",
+    "semantic_hash": ""
+  },
+  "langchain-deepagents/pyproject.toml": {
+    "mtime": 1782189529.799712,
+    "ast_hash": "fa51e8076294ddfe4b8ec171685fc330",
+    "semantic_hash": ""
+  },
+  "langchain-deepagents/quickstart.py": {
+    "mtime": 1782190537.5897887,
+    "ast_hash": "003035f0d4139e7d3b0a3a174418fc50",
+    "semantic_hash": ""
+  },
+  "langchain/langchain-ollama-init-chat-model.py": {
+    "mtime": 1781892878.7983575,
+    "ast_hash": "0c9fc577d5062921ef846b8250838f03",
+    "semantic_hash": ""
+  },
+  "langchain/langchain-ollama.py": {
+    "mtime": 1781892878.7983575,
+    "ast_hash": "16841518235404ded07f8a282816842b",
+    "semantic_hash": ""
+  },
+  "langchain/main.py": {
+    "mtime": 1781892878.8021622,
+    "ast_hash": "f17263a6b1ebcbb922a4f3cce8dcb355",
+    "semantic_hash": ""
+  },
+  "langchain/pyproject.toml": {
+    "mtime": 1781892878.8021622,
+    "ast_hash": "adb7cd73314f55085a188c94ac4e38de",
+    "semantic_hash": ""
+  },
+  "langchain/quickstart-advanced.py": {
+    "mtime": 1781892878.8059666,
+    "ast_hash": "c2314e6233e8cf8968198b71fd578c3e",
+    "semantic_hash": ""
+  },
+  "langchain/quickstart.py": {
+    "mtime": 1781892878.8059666,
+    "ast_hash": "d5a503de20f959b010ed81e3d8c26030",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/SKILL.md": {
+    "mtime": 1782203193.9547508,
+    "ast_hash": "ba4d1dca2674ba2c4db2ffdbc6786d8e",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/references/add-watch.md": {
+    "mtime": 1782123047.5759368,
+    "ast_hash": "d59d027fe449f06aa03905a01184e779",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/references/exports.md": {
+    "mtime": 1782123047.5798655,
+    "ast_hash": "9da2a2152e60a22f07f05fed5158f287",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "2e620982acb506f557538cdcfb1ef6da",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/references/hooks.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/references/query.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "0b329f30b63b0bd89282848575c86428",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/references/transcribe.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "67b6a5fa6c0974e18f60db9f8932fbd8",
+    "semantic_hash": ""
+  },
+  ".opencode/skills/graphify/references/update.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "2f78598160bfb12ab775831e0787b02a",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1782203193.9547508,
+    "ast_hash": "47f50418e96231b2225b193592649a2e",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1781892878.7983575,
+    "ast_hash": "eded3162ebcfa278bd7d8c6b5dabb66d",
+    "semantic_hash": ""
+  },
+  "langchain-deepagents/README.md": {
+    "mtime": 1781893302.9897513,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "langchain/README.md": {
+    "mtime": 1781892878.7983575,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/opencode.json": {
+    "mtime": 1782208438.8089142,
+    "ast_hash": "a0484da288869ebbd04c48c6e177d4aa",
+    "semantic_hash": "a0484da288869ebbd04c48c6e177d4aa"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/plugins/graphify.js": {
+    "mtime": 1782203193.9547508,
+    "ast_hash": "64ccd3c03dbfe0980b6095766f5c4e52",
+    "semantic_hash": "64ccd3c03dbfe0980b6095766f5c4e52"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/SKILL.md": {
+    "mtime": 1782203193.9547508,
+    "ast_hash": "ba4d1dca2674ba2c4db2ffdbc6786d8e",
+    "semantic_hash": "ba4d1dca2674ba2c4db2ffdbc6786d8e"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/references/add-watch.md": {
+    "mtime": 1782123047.5759368,
+    "ast_hash": "d59d027fe449f06aa03905a01184e779",
+    "semantic_hash": "d59d027fe449f06aa03905a01184e779"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/references/exports.md": {
+    "mtime": 1782123047.5798655,
+    "ast_hash": "9da2a2152e60a22f07f05fed5158f287",
+    "semantic_hash": "9da2a2152e60a22f07f05fed5158f287"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "2e620982acb506f557538cdcfb1ef6da",
+    "semantic_hash": "2e620982acb506f557538cdcfb1ef6da"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/references/hooks.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/references/query.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "0b329f30b63b0bd89282848575c86428",
+    "semantic_hash": "0b329f30b63b0bd89282848575c86428"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/references/transcribe.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "67b6a5fa6c0974e18f60db9f8932fbd8",
+    "semantic_hash": "67b6a5fa6c0974e18f60db9f8932fbd8"
+  },
+  "/home/laksiri/my/lessions/langchain/langchain-official-guides/.opencode/skills/graphify/references/update.md": {
+    "mtime": 1782123047.5837939,
+    "ast_hash": "2f78598160bfb12ab775831e0787b02a",
+    "semantic_hash": "2f78598160bfb12ab775831e0787b02a"
+  }
+}
